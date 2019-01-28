@@ -1,1 +1,1 @@
-# minimal-aspnet-core-api
+# Minimal ASP.NET Core API project
